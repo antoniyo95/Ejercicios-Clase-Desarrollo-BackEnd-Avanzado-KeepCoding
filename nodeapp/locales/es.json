@@ -9,5 +9,16 @@
 		"one": "Ratón",
 		"other": "Ratones"
 	},
-	"Text": "Texto"
+	"Text": "Texto",
+	"Enter a new age of web design": "Entra en una nueva era de diseño web",
+	"Features": "Características",
+	"Download": "Descargar",
+	"Send Feedback": "Enviar Feedback",
+	"Sign in": "Entrar",
+	"Invalid credentials": "Credenciales invalidas",
+	"Private zone": "Zona privada",
+	"User email is": "Tu email es",
+	"Logout": "Logout",
+	"Login": "Login",
+	"Private": "Privado"
 }
